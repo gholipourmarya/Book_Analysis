@@ -20,7 +20,7 @@ The **Book Analysis** is a Python-based project designed to read and analyze mul
 
 ## 3. Technologies Used
 
-- **Programming Language:** Python 3.7+  
+- **Programming Language:** Python 3.12
 - **Libraries:**
   - `os` for file system operations  
   - `colorama` for colored terminal output
@@ -66,8 +66,10 @@ The **Book Analysis** is a Python-based project designed to read and analyze mul
 - Exporting analysis results to CSV or JSON
 
 ---
+## 8. Attachments: 
+- Flowerchart.png 
 
-## 8. Author
+## 9. Author
 
 `MaryamGholipour Zilabi`
 
@@ -76,3 +78,7 @@ The **Book Analysis** is a Python-based project designed to read and analyze mul
 ## Notes
 
 > This tool is intended for educational purposes and basic text analysis of book collections. For larger datasets or more complex formats, additional development is recommended.
+
+
+
+<img width="932" height="1142" alt="Flowerchart" src="https://github.com/user-attachments/assets/0237bfa5-4007-46b0-88c6-a57404d57938" />
